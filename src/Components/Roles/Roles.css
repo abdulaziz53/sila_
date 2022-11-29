@@ -1,0 +1,111 @@
+.add_roles_bnt {
+  width: 1400px;
+  height: 30px;
+  margin: 13px 96px 0;
+  display: flex;
+  justify-content: end;
+}
+
+.add_btn {
+  border: 3px solid #ffffff;
+  border-radius: 5px;
+  width: 117px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.roles_page {
+  width: 1400px;
+  height: 560px;
+  margin: 13px 96px 0;
+  background: #ffffff;
+  border-radius: 0px 30px 0px 0px;
+  display: flex;
+}
+
+.roles_page {
+  border-radius: 30px;
+}
+
+.roles_page i {
+  color: #004665;
+}
+
+/*  */
+
+/* .roles_content {
+  margin-top: 5px;
+} */
+
+.roles_top {
+  width: 1366px;
+  height: 42px;
+  /* margin-top: 27px; */
+  background: rgba(146, 167, 199, 0.28);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 6px;
+  gap: 17px;
+  margin: 15px 17px;
+}
+
+.roles_top p {
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.roles_top i {
+  margin: 0px 50px 0 43px;
+}
+
+.roles_top p + p {
+  margin-left: 100px;
+}
+/*  */
+
+.roles_table_top {
+  width: 1366px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 6px;
+  gap: 17px;
+}
+
+.roles_table_top p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 39px;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.roles_table_top div {
+  width: 98px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 80px;
+}
+
+.roles_table_top .check {
+  color: #004665;
+  margin: 0px 50px 0px 58px;
+}
+
+.roles_table_top p + p {
+  margin-left: 100px;
+}
+
+.roles_table_top div a + a {
+  margin-left: 17px;
+}
